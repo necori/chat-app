@@ -82,7 +82,7 @@
   overflow: scroll;
 }
 
-..message {
+.message {
   margin: 10px 0 0 0;
 }
 
@@ -111,7 +111,7 @@
   margin-bottom: 40px;
 }
 
-form {
+.form {
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
@@ -140,7 +140,6 @@ form {
   margin-left: 15px;
   padding: 0 20px;
 }
-
 
 .form-image {
   font-size: 12px;
